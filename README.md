@@ -1,4 +1,4 @@
-# StudyMaterialRepository
+# StudyVault
 
 StudyMaterialRepository is a web application that allows users to submit, organize, and search educational materials in various formats such as PDFs, Word documents, images, and links to online resources like YouTube videos. The application is designed to help educators and learners easily access and share study materials based on their subject or grade level preferences.
 
@@ -22,7 +22,7 @@ To run the project locally, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/PATAKAMURIVENKATAGANESH/studyMaterialRepository.git
+   git clone https://github.com/Gowtham01082004/StudyVault.git
    ```
 
 2. **Install Node.js**:
