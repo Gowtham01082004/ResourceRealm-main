@@ -1,0 +1,18 @@
+COURSE NAME: Artificial Intelligence 
+COURSE CODE: CSE3026 
+NAME: V GOWTHAM 
+REG NO:21BCB7023
+
+21bce7029:
+8KuvmKuN
+
+21bce8599:
+PZ894kpu
+
+
+
+weather app api key :
+aafc4233f5bb6119a3d5fdad93926f0e
+
+weather app link :
+https://gowtham01082004.github.io/weather-application/
